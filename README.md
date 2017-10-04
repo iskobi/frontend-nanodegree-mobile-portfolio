@@ -53,3 +53,15 @@ The portfolio was built on Twitter's <a href="http://getbootstrap.com/">Bootstra
 
 * <a href="http://getbootstrap.com/css/">Bootstrap's CSS Classes</a>
 * <a href="http://getbootstrap.com/components/">Bootstrap's Components</a>
+
+====
+## What i did to optimize the portfolio
+
+index.html
+- used optimized and resized pizzeria_s.jpg
+- optimized profilepic.jpg
+- minified and inlined perfmatters.js script
+- added async to google analytics script
+- moved google font link to the end
+
+pizzeria
